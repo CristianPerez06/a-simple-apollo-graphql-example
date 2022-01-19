@@ -1,4 +1,4 @@
-# apollo-graphql-example
+# a-simple-apollo-graphql-example
 
 ## Installation
 

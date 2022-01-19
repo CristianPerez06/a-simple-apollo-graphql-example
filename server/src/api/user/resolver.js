@@ -1,8 +1,8 @@
 const resolver = {
   Query: {
     getUsers: async () => [
-      { id: 1, firstName: 'Gomaaaaa', lastName: 'Agoora', email: 'goma@mail.com' },
-      { id: 2, firstName: 'Ipi', lastName: 'Nose', email: 'ipi@mail.com' }
+      { id: 1, firstName: 'Name 1', lastName: 'LastName 1', email: 'n1@mail.com' },
+      { id: 2, firstName: 'Name 2', lastName: 'LastName 2', email: 'n2@mail.com' }
     ]
   },
   Mutation: {

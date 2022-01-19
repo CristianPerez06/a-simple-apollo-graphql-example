@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "server": "DEBUG=${DEBUG:=apollo-graphql:*} node src/server",
+    "server-win": "set DEBUG=virtual-exam:* & node src/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

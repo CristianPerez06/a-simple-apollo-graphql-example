@@ -1,6 +1,8 @@
 # a-simple-apollo-graphql-example
 A minimal example on how to use GraphQL with a ReactJS app and a NodeJS server.
 
+## Tech stack
+
 ### Frontend
 
 - Javascript

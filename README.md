@@ -1,7 +1,22 @@
 # a-simple-apollo-graphql-example
 A minimal example on how to use GraphQL with a ReactJS app and a NodeJS server.
 
-## Installation
+### Frontend
+
+- Javascript
+- React
+- Apollo
+- GraphQL
+
+### Backend
+
+- Javascript
+- Node
+- Express
+- Apollo server
+- GraphQL
+
+## How to execute the app
 
 1. Go to /server
 2. `npm install`
